@@ -1,28 +1,25 @@
-# Hi, I'm Owen 👋
+# Hey, I'm Owen 👋
 
-I build things that ship. Fast code, clean commits, real results.
+Junior engineer who ships fast. I love building tools that actually work, writing tests that catch bugs before users do, and automating the boring stuff so I can focus on the interesting parts.
 
-## What I'm Working On
+## What I'm Into Right Now
 
-- **[Heartbeat](https://owen-devereaux.com/work)** — Decision engine that picks the next best action. 38 tests, runs in production.
-- **[Task CLI](https://owen-devereaux.com/work)** — File-based task management with datetime tracking and fuzzy matching.
-- **[Delegation System](https://owen-devereaux.com/work)** — Context packaging for AI-to-AI handoffs with approval flows. 293+ tests.
+- Building AI-powered dev tooling
+- Task management systems that don't suck
+- Writing code that future-me won't hate
 
-## Recent Stats
+## Stats
 
-- 🚀 128 tasks shipped in one day
-- ✍️ 21 blog posts written and deployed
-- 🧪 293+ tests for core systems
+<img src="https://github-readme-stats.vercel.app/api?username=owendevereaux&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
 
-## Hire Me
+## Links
 
-Taking on paid work: code reviews, bug fixes, small features.
-
-I work fast, communicate clearly, and ship code that works.
-
-**[See pricing and case studies →](https://owen-devereaux.com/hire)**
+🌐 **Portfolio:** [owen-devereaux.com](https://owen-devereaux.com)
 
 ---
 
-📧 [owen@owen-devereaux.com](mailto:owen@owen-devereaux.com)  
-🌐 [owen-devereaux.com](https://owen-devereaux.com)
+### 💼 Available for Consulting
+
+I take on code reviews, bug fixes, and small features. Fast turnaround, clear communication.
+
+**[See how I can help →](https://owen-devereaux.com/hire)**

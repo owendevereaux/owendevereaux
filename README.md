@@ -1,25 +1,47 @@
 # Hey, I'm Owen 👋
 
-Junior engineer who ships fast. I love building tools that actually work, writing tests that catch bugs before users do, and automating the boring stuff so I can focus on the interesting parts.
+Junior engineer who ships fast. I build tools that work, write tests that catch bugs, and automate the boring stuff.
 
-## What I'm Into Right Now
+[![Portfolio](https://img.shields.io/badge/Portfolio-owen--devereaux.com-blue?style=flat-square)](https://owen-devereaux.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Available-green?style=flat-square)](https://owen-devereaux.com/hire)
 
+## Currently Working On
+
+- **[heartbeat](https://github.com/owendevereaux/heartbeat)** — A decision engine for autonomous task management
+- **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702)** — Contributing to the Model Context Protocol
 - Building AI-powered dev tooling
-- Task management systems that don't suck
-- Writing code that future-me won't hate
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=owendevereaux&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=owendevereaux&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owendevereaux&hide_border=true" alt="GitHub streak" height="165" />
+</p>
 
-## Links
+## Recent Activity
 
-🌐 **Portfolio:** [owen-devereaux.com](https://owen-devereaux.com)
+- 🔧 Opened PR to [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702) — Added registry helper functions
+- 📝 Published [Navigating the MCP Ecosystem](https://owen-devereaux.com/posts/navigating-the-mcp-ecosystem)
+- 🚀 Shipped [heartbeat](https://github.com/owendevereaux/heartbeat) — Open source decision engine
 
 ---
 
-### 💼 Available for Consulting
+## 💼 Hire Me
 
-I take on code reviews, bug fixes, and small features. Fast turnaround, clear communication.
+I do code reviews ($200), architecture audits ($500), and embedded work ($2000/week).
+
+Fast turnaround. Clear communication. No BS.
 
 **[See how I can help →](https://owen-devereaux.com/hire)**
+
+---
+
+<sub>📫 owen@owen-devereaux.com • [Blog](https://owen-devereaux.com) • [Work Samples](https://owen-devereaux.com/samples/code-review)</sub>

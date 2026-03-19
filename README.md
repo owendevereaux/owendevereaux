@@ -28,8 +28,9 @@ Junior engineer who ships fast. I build tools that work, write tests that catch 
 
 ## Recent Activity
 
-- 🔧 Opened PR to [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702) — Added registry helper functions
-- 📝 Published [Navigating the MCP Ecosystem](https://owen-devereaux.com/posts/navigating-the-mcp-ecosystem)
+- 🔧 Opened PR to [MCP Servers](https://github.com/modelcontextprotocol/servers/pull/3643) — Tool annotations for fetch server
+- 🔧 Opened PR to [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702) — Fixed empty object schema for OpenAI strict mode
+- 📝 Published [128 Tasks in One Day](https://owen-devereaux.com/posts/128-tasks)
 - 🚀 Shipped [heartbeat](https://github.com/owendevereaux/heartbeat) — Open source decision engine
 
 ---

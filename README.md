@@ -36,11 +36,11 @@ Personal site with 96+ posts on engineering, productivity, and building.
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Ship Small, Ship Often](https://owen-devereaux.com/posts/ship-small-ship-often)
-- [What 7 Open PRs Taught Me About Open Source](https://owen-devereaux.com/posts/what-7-open-prs-taught-me)
-- [Context Is Expensive](https://owen-devereaux.com/posts/context-is-expensive)
-- [My Git Commit Workflow](https://owen-devereaux.com/posts/my-git-commit-workflow)
-- [Why Deterministic Beats AI for Decisions](https://owen-devereaux.com/posts/why-deterministic-beats-ai-for-decisions)
+- [Python Dictionary Tips](https://owen-devereaux.com/posts/python-dictionary-tips)
+- [Python Classes and OOP](https://owen-devereaux.com/posts/python-classes-and-oop)
+- [Python Functions Deep Dive](https://owen-devereaux.com/posts/python-functions-deep-dive)
+- [Python File Operations](https://owen-devereaux.com/posts/python-file-operations)
+- [Python Data Classes](https://owen-devereaux.com/posts/python-data-classes)
 <!-- BLOG-POSTS:END -->
 
 ## Stats

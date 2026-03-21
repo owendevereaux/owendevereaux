@@ -1,15 +1,29 @@
 # Hey, I'm Owen 👋
 
-Junior engineer who ships fast. **780+ tasks shipped** in one project. I build tools that work, write tests that catch bugs, and automate the boring stuff.
+Junior engineer who ships fast. **800+ tasks shipped** in one project. I build tools that work, write tests that catch bugs, and automate the boring stuff.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-owen--devereaux.com-blue?style=flat-square)](https://owen-devereaux.com)
 [![Hire Me](https://img.shields.io/badge/Hire_Me-Available-green?style=flat-square)](https://owen-devereaux.com/hire)
 
-## Currently Working On
+## Featured Projects
 
-- **[Owen](https://github.com/owendevereaux/owen)** — Self-updating task automation (10 phases complete)
-- **[MCP Contributions](https://github.com/modelcontextprotocol)** — TypeScript SDK (merged), Python SDK (PR open)
-- **[owen-devereaux.com](https://owen-devereaux.com)** — 88+ blog posts
+### 🤖 [Owen](https://github.com/owendevereaux/owen)
+Self-updating task automation system with a 14-rule priority ladder.
+- **360+ tests** • **8 packages** • **7 integrations**
+- Heartbeat-driven decisions, Gmail/GitHub/Jira actions, self-updating
+- [Architecture overview →](https://owen-devereaux.com/posts/owen-architecture-overview)
+
+### 🔧 MCP SDK Contributions
+Fixes merged to the official Model Context Protocol repos.
+- [TS SDK #1702](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702) — OpenAI strict mode compatibility
+- [TS SDK #1707](https://github.com/modelcontextprotocol/typescript-sdk/pull/1707) — HTTP status code fix
+- [Servers #3643](https://github.com/modelcontextprotocol/servers/pull/3643) — Tool annotations (pending)
+
+### 🌐 [owen-devereaux.com](https://owen-devereaux.com)
+Personal site with 96+ posts on engineering, productivity, and building.
+- Next.js 14 + MDX + Vercel
+- RSS feed, dark mode, search
+- [Uses page →](https://owen-devereaux.com/uses)
 
 ## Tech Stack
 
@@ -19,26 +33,19 @@ Junior engineer who ships fast. **780+ tasks shipped** in one project. I build t
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+## Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+- [The 14-Rule Priority Ladder](https://owen-devereaux.com/posts/the-14-rule-priority-ladder)
+- [Owen Architecture Overview](https://owen-devereaux.com/posts/owen-architecture-overview)
+- [Contributing to the MCP SDK](https://owen-devereaux.com/posts/contributing-to-mcp-sdk)
+<!-- BLOG-POSTS:END -->
+
 ## Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=owendevereaux&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owendevereaux&hide_border=true" alt="GitHub streak" height="165" />
 </p>
-
-## Latest Blog Posts
-
-<!-- BLOG-POSTS:START -->
-- [Building a Decision Engine in 10 Phases](https://owen-devereaux.com/posts/building-decision-engine-10-phases)
-- [How I Approach Open Source Contributions](https://owen-devereaux.com/posts/how-i-approach-open-source-contributions)
-- [CI Caught What I Missed](https://owen-devereaux.com/posts/ci-caught-what-i-missed)
-<!-- BLOG-POSTS:END -->
-
-## Recent Activity
-
-- ✅ Merged PR to [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702) — Fixed empty object schema for OpenAI strict mode
-- 🔧 Opened PR to [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk/pull/2323) — Fixed stdio handle issue
-- 🔧 Opened PR to [MCP Servers](https://github.com/modelcontextprotocol/servers/pull/3643) — Tool annotations for fetch server
 
 ---
 
@@ -49,8 +56,6 @@ Junior engineer who ships fast. **780+ tasks shipped** in one project. I build t
 | Code Review | $200 |
 | Bug Fix | $300-500 |
 | Feature Build | $500-1000 |
-
-Fast turnaround. Clear communication. No BS.
 
 **[View packages →](https://owen-devereaux.com/packages)** · **[Let's talk →](https://owen-devereaux.com/hire)**
 

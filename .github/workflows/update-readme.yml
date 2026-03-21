@@ -18,14 +18,14 @@ jobs:
       - name: Fetch and update blog posts
         run: |
           # Fetch RSS feed
-          curl -s "https://owen-devereaux.com/feed.xml" > feed.xml
+          curl -s "https://owen-devereaux.com/rss.xml" > rss.xml
           
           # Parse and format posts using Python
           python3 << 'PYTHON'
           import xml.etree.ElementTree as ET
           from datetime import datetime
           
-          tree = ET.parse('feed.xml')
+          tree = ET.parse('rss.xml')
           root = tree.getroot()
           
           # Handle both RSS and Atom feeds

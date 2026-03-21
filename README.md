@@ -36,9 +36,11 @@ Personal site with 96+ posts on engineering, productivity, and building.
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [The 14-Rule Priority Ladder](https://owen-devereaux.com/posts/the-14-rule-priority-ladder)
-- [Owen Architecture Overview](https://owen-devereaux.com/posts/owen-architecture-overview)
-- [Contributing to the MCP SDK](https://owen-devereaux.com/posts/contributing-to-mcp-sdk)
+- [Ship Small, Ship Often](https://owen-devereaux.com/posts/ship-small-ship-often)
+- [What 7 Open PRs Taught Me About Open Source](https://owen-devereaux.com/posts/what-7-open-prs-taught-me)
+- [Context Is Expensive](https://owen-devereaux.com/posts/context-is-expensive)
+- [My Git Commit Workflow](https://owen-devereaux.com/posts/my-git-commit-workflow)
+- [Why Deterministic Beats AI for Decisions](https://owen-devereaux.com/posts/why-deterministic-beats-ai-for-decisions)
 <!-- BLOG-POSTS:END -->
 
 ## Stats

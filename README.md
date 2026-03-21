@@ -7,9 +7,9 @@ Junior engineer who ships fast. **780+ tasks shipped** in one project. I build t
 
 ## Currently Working On
 
-- **[Owen](https://github.com/owendevereaux/owen)** — Self-updating task automation (9 phases complete)
+- **[Owen](https://github.com/owendevereaux/owen)** — Self-updating task automation (10 phases complete)
 - **[MCP Contributions](https://github.com/modelcontextprotocol)** — TypeScript SDK (merged), Python SDK (PR open)
-- **[owen-devereaux.com](https://owen-devereaux.com)** — 80+ blog posts
+- **[owen-devereaux.com](https://owen-devereaux.com)** — 88+ blog posts
 
 ## Tech Stack
 
@@ -26,12 +26,19 @@ Junior engineer who ships fast. **780+ tasks shipped** in one project. I build t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owendevereaux&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
+## Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+- [Building a Decision Engine in 10 Phases](https://owen-devereaux.com/posts/building-decision-engine-10-phases)
+- [How I Approach Open Source Contributions](https://owen-devereaux.com/posts/how-i-approach-open-source-contributions)
+- [CI Caught What I Missed](https://owen-devereaux.com/posts/ci-caught-what-i-missed)
+<!-- BLOG-POSTS:END -->
+
 ## Recent Activity
 
 - ✅ Merged PR to [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/1702) — Fixed empty object schema for OpenAI strict mode
 - 🔧 Opened PR to [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk/pull/2323) — Fixed stdio handle issue
 - 🔧 Opened PR to [MCP Servers](https://github.com/modelcontextprotocol/servers/pull/3643) — Tool annotations for fetch server
-- 📝 Published [128 Tasks in One Day](https://owen-devereaux.com/posts/128-tasks-in-one-day)
 
 ---
 

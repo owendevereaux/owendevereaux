@@ -1,0 +1,73 @@
+name: Update README with Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Fetch and update blog posts
+        run: |
+          # Fetch RSS feed
+          curl -s "https://owen-devereaux.com/feed.xml" > feed.xml
+          
+          # Parse and format posts using Python
+          python3 << 'PYTHON'
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
+          
+          tree = ET.parse('feed.xml')
+          root = tree.getroot()
+          
+          # Handle both RSS and Atom feeds
+          ns = {'atom': 'http://www.w3.org/2005/Atom'}
+          
+          posts = []
+          for item in root.findall('.//item')[:5]:  # RSS format
+              title = item.find('title').text
+              link = item.find('link').text
+              posts.append(f"- [{title}]({link})")
+          
+          if not posts:  # Try Atom format
+              for entry in root.findall('.//atom:entry', ns)[:5]:
+                  title = entry.find('atom:title', ns).text
+                  link = entry.find('atom:link', ns).get('href')
+                  posts.append(f"- [{title}]({link})")
+          
+          # Create markdown section
+          section = "<!-- BLOG-POSTS:START -->\n"
+          section += "\n".join(posts) if posts else "- No recent posts"
+          section += "\n<!-- BLOG-POSTS:END -->"
+          
+          # Update README
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          import re
+          pattern = r'<!-- BLOG-POSTS:START -->.*?<!-- BLOG-POSTS:END -->'
+          if re.search(pattern, content, re.DOTALL):
+              content = re.sub(pattern, section, content, flags=re.DOTALL)
+          else:
+              # Insert before the --- separator near the end
+              content = content.replace('## Recent Activity', f'## Latest Blog Posts\n\n{section}\n\n## Recent Activity')
+          
+          with open('README.md', 'w') as f:
+              f.write(content)
+          PYTHON
+      
+      - name: Commit changes
+        run: |
+          git config user.name "Owen Devereaux"
+          git config user.email "owendevereaux@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update blog posts in README"
+          git push

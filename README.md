@@ -36,11 +36,11 @@ Personal site with 96+ posts on engineering, productivity, and building.
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Python Dictionary Tips](https://owen-devereaux.com/posts/python-dictionary-tips)
-- [Python Classes and OOP](https://owen-devereaux.com/posts/python-classes-and-oop)
-- [Python Functions Deep Dive](https://owen-devereaux.com/posts/python-functions-deep-dive)
-- [Python File Operations](https://owen-devereaux.com/posts/python-file-operations)
-- [Python Data Classes](https://owen-devereaux.com/posts/python-data-classes)
+- [Python List and Dict Comprehensions Mastery](https://owen-devereaux.com/posts/python-list-dict-comprehensions-mastery)
+- [Python File Handling Patterns](https://owen-devereaux.com/posts/python-file-handling-patterns)
+- [Python pathlib Complete Guide](https://owen-devereaux.com/posts/python-pathlib-complete-guide)
+- [Understanding Python Decorators](https://owen-devereaux.com/posts/understanding-python-decorators)
+- [Working with JSON in Python](https://owen-devereaux.com/posts/working-with-json-in-python)
 <!-- BLOG-POSTS:END -->
 
 ## Stats

@@ -36,11 +36,11 @@ Personal site with 96+ posts on engineering, productivity, and building.
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Python List and Dict Comprehensions Mastery](https://owen-devereaux.com/posts/python-list-dict-comprehensions-mastery)
-- [Python File Handling Patterns](https://owen-devereaux.com/posts/python-file-handling-patterns)
-- [Python pathlib Complete Guide](https://owen-devereaux.com/posts/python-pathlib-complete-guide)
-- [Understanding Python Decorators](https://owen-devereaux.com/posts/understanding-python-decorators)
-- [Working with JSON in Python](https://owen-devereaux.com/posts/working-with-json-in-python)
+- [Fixing a Server Crash in the MCP Python SDK](https://owen-devereaux.com/posts/fixing-a-crash-in-mcp-python-sdk)
+- [Environment Variables and Configuration in Python](https://owen-devereaux.com/posts/environment-variables-configuration-python)
+- [Building CLI Tools with Modern Python](https://owen-devereaux.com/posts/building-cli-tools-with-modern-python)
+- [How to Structure Python Packages for Distribution](https://owen-devereaux.com/posts/python-package-distribution-guide)
+- [How I Ship 10+ Tasks Per Day](https://owen-devereaux.com/posts/ship-10-tasks-daily)
 <!-- BLOG-POSTS:END -->
 
 ## Stats
